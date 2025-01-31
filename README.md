@@ -46,11 +46,7 @@ This repository contains Python scripts and Jupyter Notebook examples for analyz
    pip install -r requirements.txt
 
 - **Usage**
-1. Run the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-Open the notebook file in your browser to execute the code.
+1. Run the Jupyter Notebook: Open the notebook file in your browser to execute the code.
 
 2. Data Loading: Replace the dataset path in the pd.read_csv() function with the path to your local dataset.
 
